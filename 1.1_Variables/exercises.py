@@ -1,10 +1,10 @@
 # Code 1:
 
-name = "Prem"
-age = 22
-college = "SNS"
+name = "John"
+age = 23
+college = "SMS"
 CGPA = 8.17 
-
+    
 print("Name:",name)
 print("Age:",age)
 print("College:", college)
@@ -13,9 +13,9 @@ print("CGPA:", CGPA)
 
 # Output:
 
-# Name: Prem
-# Age: 22
-# College: SNS
+# Name: John
+# Age: 23
+# College: SMS
 # CGPA: 8.17
 
 
@@ -25,6 +25,12 @@ print("CGPA:", CGPA)
 Language = "My favorite language is Python"
 
 print(Language)
+
+
+
+Language = "Python"
+
+print(f"My Favorite Language is {Language}")
 
 # Output:
 
