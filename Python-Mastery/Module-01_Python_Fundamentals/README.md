@@ -40,7 +40,7 @@ By completing Module 01, you will:
 ## 🗺️ Lesson Checklist
 
 - [x] **[01_Introduction](./01_Introduction/README.md)**: CPython Architecture, Source Code Execution, Bytecode, PVM & GIL Overview
-- [ ] **[02_Variables_and_Memory](./02_Variables_and_Memory/README.md)**: Object References, Reference Counting, CPython `PyObject` Layout & `id()`
+- [x] **[02_Variables_and_Memory](./02_Variables_and_Memory/README.md)**: Object References, Reference Counting, CPython `PyObject` Layout & `id()`
 - [ ] **[03_Variable_Assignment_Dynamic_Typing](./03_Variable_Assignment_Dynamic_Typing/README.md)**: Binding Mechanics, Rebinding vs Mutation, Duck Typing
 - [ ] **[04_Naming_Rules_and_PEP8](./04_Naming_Rules_and_PEP8/README.md)**: PEP 8 Naming Standards, Identifiers, Keywords & Scope Rules
 - [ ] **[05_Data_Types_Overview](./05_Data_Types_Overview/README.md)**: Type Hierarchy, Primitive vs Non-Primitive Types, Type Conversions

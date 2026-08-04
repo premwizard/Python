@@ -24,15 +24,15 @@ Every lesson in this workspace is **independent**, **fully executable**, **PEP 8
 
 ## 🗺️ Master Curriculum Roadmap & Progress Tracker
 
-**Overall Course Completion**: `[ 1 / 50 Lessons Complete ]` (2%)
+**Overall Course Completion**: `[ 2 / 50 Lessons Complete ]` (4%)
 
 ```
-[██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 2% Completed
+[████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 4% Completed
 ```
 
-### Module 01: Python Fundamentals `[ 1 / 5 ]`
+### Module 01: Python Fundamentals `[ 2 / 5 ]`
 - [x] **01_Introduction**: CPython Architecture, Source Code Execution, Bytecode, PVM & GIL Overview
-- [ ] **02_Variables_and_Memory**: Object References, Reference Counting, CPython `PyObject` Layout & `id()`
+- [x] **02_Variables_and_Memory**: Object References, Reference Counting, CPython `PyObject` Layout & `id()`
 - [ ] **03_Variable_Assignment_Dynamic_Typing**: Binding Mechanics, Rebinding vs Mutation, Duck Typing
 - [ ] **04_Naming_Rules_and_PEP8**: PEP 8 Naming Standards, Identifiers, Keywords & Scope Rules
 - [ ] **05_Data_Types_Overview**: Type Hierarchy, Primitive vs Non-Primitive Types, Type Conversions
@@ -171,6 +171,7 @@ Lesson-Folder/
 When adding or updating lessons, adhere to Conventional Commits:
 
 - `feat(m01-l01): complete lesson 01 introduction & execution flow`
+- `feat(m01-l02): complete lesson 02 variables and memory references`
 - `docs(m02-l03): add notes and diagrams for python iteration protocol`
 - `test(m08-l01): add pytest fixtures practice exercise`
 - `refactor(m05-l04): optimize MRO demonstration in examples.py`
